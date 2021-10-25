@@ -2,9 +2,13 @@ package org.demo;
 
 public class Sample {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	private static void empId() {
+		System.out.println("123");
+	}
 
+	public static void main(String[] args) {
+
+		empId();
 	}
 
 }
